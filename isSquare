@@ -1,4 +1,3 @@
-import java.util.*;
 public class Collection {
 public int isSquare(int n) {
     int i;
