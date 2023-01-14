@@ -8,3 +8,4 @@ public int isSquare(int n) {
         break;
     }
     return 0;
+    }
